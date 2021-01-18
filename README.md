@@ -13,7 +13,8 @@ I'm an aircraft control systems engineering student, I also work as a freelancer
 ![Altium Designer](https://img.shields.io/badge/-Altium&nbsp;Designer-05122A?style=flat&logo=altium-designer)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Shopify](https://img.shields.io/badge/-Shopify-05122A?style=flat&logo=shopify)
-![Shopify](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)
+![GitHub Actions](https://img.shields.io/badge/-GitHub&nbsp;Actions-05122A?style=flat&logo=github-actions&logoColor=2088FF)
 
 ### GitHub Stats
 
