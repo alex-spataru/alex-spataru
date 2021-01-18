@@ -1,7 +1,5 @@
 ### Hi there, I'm Alex 👋
 
-[![HitCount](http://hits.dwyl.com/alex-spataru/alex-spataru.svg)](http://hits.dwyl.com/alex-spataru/alex-spataru)
-
 I'm an aircraft control systems engineering student in Querétaro, México. I currently work as a freelancer. I enjoy photography, music production & software development. You can see more about me at my [website](https://github.com/alex-spataru).
 
 ### Technologies
@@ -20,8 +18,9 @@ I'm an aircraft control systems engineering student in Querétaro, México. I cu
 ### GitHub Stats
 
 <div align="center">
-<a href="https://alex-spataru.com">
-  <img height="156px" src="https://github-readme-stats.vercel.app/api?username=alex-spataru&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=vue" />
-  <img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-spataru&hide=asl&hide_border=false&layout=compact&langs_count=7&theme=vue"/>
-</a>
+  <a href="https://alex-spataru.com">
+    <img height="156px" src="https://github-readme-stats.vercel.app/api?username=alex-spataru&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=vue" />
+    <img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-spataru&hide=asl&hide_border=false&layout=compact&langs_count=7&theme=vue"/>
+  </a>
+  [![HitCount](http://hits.dwyl.com/alex-spataru/alex-spataru.svg)](http://hits.dwyl.com/alex-spataru/alex-spataru)
 </div>
