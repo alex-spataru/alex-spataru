@@ -23,5 +23,5 @@ I'm an aircraft control systems engineering student, I also work as a freelancer
     <img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-spataru&hide=asl&hide_border=false&layout=compact&langs_count=7&theme=vue"/>
   </a>
   <br><br>
-  <img align="center" src="http://hits.dwyl.com/alex-spataru/alex-spataru.svg">
+  <a href="http://hits.dwyl.com/alex-spataru/"><img align="center" src="http://hits.dwyl.com/alex-spataru/alex-spataru.svg"></a>
 </div>
