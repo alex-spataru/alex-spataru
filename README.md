@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 👋
 
-I'm an aircraft control systems engineering student in Querétaro, México. I currently work as a freelancer. I enjoy photography, music production & software development. You can see more about me at my [website](https://github.com/alex-spataru).
+I'm an aircraft control systems engineering student, I also work as a freelancer. You can see some of my projects, blog posts and more at my personal [website](https://alex-spataru.com/).
 
 ### Technologies
 
