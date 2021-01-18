@@ -4,14 +4,12 @@ I'm an aircraft control systems engineering student, I also work as a freelancer
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
-![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=Qt)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Shopify](https://img.shields.io/badge/-Shopify-05122A?style=flat&logo=shopify)
 
