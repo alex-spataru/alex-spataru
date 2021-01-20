@@ -20,8 +20,8 @@ I'm an aircraft control systems engineering student, I also work as a freelancer
 
 <div align="center">
   <a href="https://alex-spataru.com">
-    <img height="142px" src="https://github-readme-stats.vercel.app/api?username=alex-spataru&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=vue" />
-    <img height="142px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-spataru&hide=asl&hide_border=false&layout=compact&langs_count=7&theme=vue"/>
+    <img height="142px" src="https://github-readme-stats.vercel.app/api?username=alex-spataru&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=ayu-mirage" />
+    <img height="142px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-spataru&hide=asl&hide_border=false&layout=compact&langs_count=7&theme=ayu-mirage"/>
   </a>
   <br><br>
   <!--<a href="http://hits.dwyl.com/alex-spataru/"><img align="center" src="http://hits.dwyl.com/alex-spataru/alex-spataru.svg"></a>-->
