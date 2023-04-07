@@ -1,6 +1,6 @@
 # Hi! Nice to see you. 🖖
 
-Welcome to my profile! I'm Alex, an engineering student from **Querétaro, México**, currently working as an EID intern at [GE Aerospace](https://www.geaerospace.com). In my downtime, you'll find me reading a [good book](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713), capturing life's moments with my [camera](https://unsplash.com/@spat), contributing to [open source](https://profile-summary-for-github.com/user/alex-spataru) stuff, or learning about [music](https://soundcloud.com/alex_spataru) production. Feel free to explore my [repos](https://github.com/alex-spataru?tab=repositories) and connect!
+Welcome to my profile! I'm Alex, an engineering student from **Querétaro, México**, currently working as an EID intern at [GE Aerospace](https://www.geaerospace.com) with the [CF34](https://www.geaerospace.com/propulsion/commercial/cf34) engine. In my downtime, you'll find me reading a [good book](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713), capturing life's moments with my [camera](https://unsplash.com/@spat), contributing to [open source](https://profile-summary-for-github.com/user/alex-spataru) stuff, or learning about [music](https://soundcloud.com/alex_spataru) production. Feel free to explore my [repos](https://github.com/alex-spataru?tab=repositories) and connect!
 
 <div align="center">
 
