@@ -11,6 +11,8 @@ Welcome to my profile! I'm Alex, an engineer from **Querétaro, México**, curre
 ![Ghidra](https://img.shields.io/badge/-Ghidra-ED1C24?style=flat-square&logo=dungeonsanddragons&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![RFID](https://img.shields.io/badge/-RFID_HF/UHF-F77E1C?style=flat-square&logo=wikidata&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Hackintosh](https://img.shields.io/badge/-Hackintosh-1A1A1A?style=flat-square&logo=apple&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![HP-UX](https://img.shields.io/badge/-HP_UX-0096D6?style=flat-square&logo=hp&logoColor=white)
