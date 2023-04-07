@@ -1,3 +1,8 @@
+<h1>Hi! Nice to see you. 🖖</h1>
+Welcome to my profile! I'm Alex, an engineer from **Querétaro, México**, currently working at *GE Aerospace* 🚀 ✈️
+
+<h3>Things I code with</h3>
+
 <div align="center">
 <h1></h1>
 
