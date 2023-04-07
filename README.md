@@ -3,7 +3,11 @@
 Welcome to my profile! I'm Alex, an engineer from **Querétaro, México**, currently working as an EID intern at [GE Aerospace](https://www.geaerospace.com).
 
 <div align="center">
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alex-spataru&hide_border=true&background=00000000&border=00000000&stroke=828282&ring=C94F4F&fire=C94F4F&currStreakNum=C94F4F&sideNums=C94F4F&currStreakLabel=424242&sideLabels=121212&dates=848484)](https://git.io/streak-stats)
+
+![Spat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alex-spataru&bg_color=00000000&color=424242&line=DC8E8E&point=C94F4F&area=true&hide_border=true)
+
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,12 +24,5 @@ Welcome to my profile! I'm Alex, an engineer from **Querétaro, México**, curre
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/-Ableton_Live-000000?style=flat-square&logo=ableton-live&logoColor=white)
 
-<h1></h1>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alex-spataru&hide_border=true&background=00000000&border=00000000&stroke=828282&ring=C94F4F&fire=C94F4F&currStreakNum=C94F4F&sideNums=C94F4F&currStreakLabel=424242&sideLabels=121212&dates=848484)](https://git.io/streak-stats)
-
-<h1></h1>
-
-![Spat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alex-spataru&bg_color=00000000&color=424242&line=DC8E8E&point=C94F4F&area=true&hide_border=true)
-
+  
 </div>
