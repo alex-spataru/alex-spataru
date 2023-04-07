@@ -1,6 +1,6 @@
 # Hi! Nice to see you. 🖖
 
-Welcome to my profile! I'm Alex, an engineer from **Querétaro, México**, currently working as an EID intern at [GE Aerospace](https://www.geaerospace.com).
+Welcome to my profile! I'm Alex, an engineering from **Querétaro, México**, currently working as an EID intern at [GE Aerospace](https://www.geaerospace.com). In my downtime, you'll find me reading a book, capturing life's moments with my camera, contributing to open source stuff, or learning about music production. Feel free to explore my repos and connect!
 
 <div align="center">
 
