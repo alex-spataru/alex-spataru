@@ -5,8 +5,6 @@ Welcome to my profile! I'm Alex, an engineering student from **Querétaro, Méxi
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alex-spataru&hide_border=true&background=00000000&border=00000000&stroke=828282&ring=C94F4F&fire=C94F4F&currStreakNum=C94F4F&sideNums=C94F4F&currStreakLabel=424242&sideLabels=121212&dates=848484)](https://git.io/streak-stats)
-
-![Spat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alex-spataru&bg_color=00000000&color=424242&line=DC8E8E&point=C94F4F&area=true&hide_border=true)
   
 <b><ins>Note</ins>:</b> private contributions are not listed in the graphs & widgets shown above.
 
