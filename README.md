@@ -6,7 +6,7 @@ Welcome to my profile! I'm Alex, an engineering student from **Querétaro, Méxi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alex-spataru&hide_border=true&background=00000000&border=00000000&stroke=828282&ring=C94F4F&fire=C94F4F&currStreakNum=C94F4F&sideNums=C94F4F&currStreakLabel=424242&sideLabels=121212&dates=848484)](https://git.io/streak-stats)
   
-<b><ins>Note</ins>:</b> private contributions are not listed in the graphs & widgets shown above.
+<b><ins>Note</ins>:</b> private contributions are not listed in the widgets shown above.
 
 <h1></h1>
   
